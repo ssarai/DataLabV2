@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Data Lab V2</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- String for course activity -->
+    <string name="course_id_hint">Enter Course Id (Ex: TCSS450) </string>
+    <string name="course_short_desc_hint">Enter Course Short Description (Ex: Mobile App Programming) </string>
+    <string name="course_long_desc_hint">Enter Course Long Description</string>
+    <string name="course_prereqs_hint">Enter prereqs</string>
+    <string name="add_course_text">Add Course</string>
+
+    <!-- String for sign in page -->
+    <string name="username">Enter your userid</string>
+    <string name="password">Enter your password</string>
+    <string name="login">Sign in</string>
+    <string name="username_hint">1-2-3</string>
+    <string name="password_hint">10... 9... 8...</string>
+
+    <!-- String for file and boolean concerning being logged in as a preference -->
+    <string name="LOGIN_PREFS">edu.uw.tacoma.vuchris.webservicelab.PREFS</string>
+    <string name="LOGGEDIN">loggedin</string>
+
+    <!-- String for logging out -->
+    <string name="action_logout">Logout</string>
+
+    <!-- String for login file -->
+    <string name="LOGIN_FILE"> edu.uw.tacoma.vuchris.webservicelab.LOGIN_FILE</string>
+
+</resources>
